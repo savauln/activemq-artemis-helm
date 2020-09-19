@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  activemq-artemis:
+  - apiVersion: v1
+    appVersion: 2.6.2
+    created: "2020-09-19T23:54:04.47015+04:00"
+    description: a multi-protocol, embeddable, very high performance, clustered, asynchronous
+      messaging system.
+    digest: e33922d34cfd8aacd7c6759f254d246bdea3b98537c0e832c0b942e21a6ed48a
+    home: https://activemq.apache.org/artemis/
+    icon: https://activemq.apache.org/assets/img/activemq_logo_icon.png
+    keywords:
+    - activemq
+    - artemis
+    - messaging
+    - mom
+    - amqp
+    - jms
+    - mqtt
+    maintainers:
+    - email: victor.romero@gmail.com
+      name: vromero
+    name: activemq-artemis
+    sources:
+    - https://github.com/kubernetes/charts
+    - https://github.com/apache/activemq-artemis
+    urls:
+    - activemq-artemis-0.0.2.tgz
+    version: 0.0.2
+generated: "2020-09-19T23:54:04.467211+04:00"
